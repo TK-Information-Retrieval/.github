@@ -1,4 +1,4 @@
-# Information Retrieval 2024/2025 Group Assignment (8th Semester)
+# Information Retrieval 2024/2025 Group Assignment
 
 ## Members
 
